@@ -1,0 +1,10 @@
+PARTERA VIAJERA - Primera versión PWA
+
+1. Descomprime los archivos y publícalos juntos en un alojamiento HTTPS (por ejemplo GitHub Pages o Netlify).
+2. Abre la URL en Chrome para Android y elige menú > Instalar aplicación o Agregar a pantalla de inicio.
+3. Una vez cargada e instalada, puede abrirse sin conexión. Los datos se guardan en el almacenamiento local de ese navegador/dispositivo.
+4. Exporta frecuentemente respaldos JSON y CSV. Eliminar datos del navegador, reinstalarlo o cambiar de dispositivo puede eliminar el historial.
+5. Esta versión no es un APK. Para obtener un APK real se requiere empaquetado y firma Android.
+6. No uses el modo incógnito para registros clínicos. Evita dispositivos compartidos. La versión inicial no cifra los registros.
+7. La bitácora permite ingresar fechas y horas manuales, incluso anteriores. El monitor toma la hora del dispositivo al tocar el botón.
+8. No hay función de borrado de historial. Nueva paciente conserva los registros existentes.
