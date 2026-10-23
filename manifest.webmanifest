@@ -1,1 +1,24 @@
-{"name":"Monitor de Contracciones | Partera Viajera","short_name":"Partera Viajera","description":"Monitor y bitácora cronológica del parto sin conexión","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#fcf6fb","theme_color":"#b990cf","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "Monitor de Contracciones | Partera Viajera",
+  "short_name": "Partera Viajera",
+  "description": "Monitor y bitácora cronológica del parto sin conexión",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff7fc",
+  "theme_color": "#c7a0d6",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
